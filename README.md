@@ -1,14 +1,18 @@
 # MY INTROVERT
 App solutions for Introverts - Product Base Capstone (Bangkit 2023 Batch 1)
 
+
 <p align="center">
   <img src='https://i.postimg.cc/mgJy06Tz/HIS-logo.jpg' width="200">
 </p>
 
+
 ## Team ID : C23-PC765
-### Formula Role : 4ML-2CC-1MD
-### Theme which choose : Human Healthcare and Living Wellbeings
-### Title of the Project : My Introvert
+
+#### Formula Role : 4ML-2CC-1MD
+#### Theme which choose : Human Healthcare and Living Wellbeings
+#### Title of the Project : My Introvert
+
 
 ### Our Team Members :
 1.  C106DSX2000 - [M. Khoirul Husen](https://www.linkedin.com/in/hoirulhusen08/) - (CC)
@@ -18,6 +22,7 @@ App solutions for Introverts - Product Base Capstone (Bangkit 2023 Batch 1)
 5.  M181DSX030 - [Alvin Wihono](https://www.linkedin.com/in/) - (ML)
 6.  M201DKY4698 - [Aulia Mutia Pratiwi](https://www.linkedin.com/in/) - (ML)
 7.  A360DKX4350 - [Rifki Fauzi](https://www.linkedin.com/in/) - (MD)
+
 
 ## Excecutive Summary / Abstract :
 Our idea is to make a special Application to help Introverts, where we see a lot of Blockers for Introverts but not many are aware of this, and there is no specific Application made to deal with this problem, which in our Project Today we focus on "Helping to Improve Social Skills and Mental Health" for Introverts.
