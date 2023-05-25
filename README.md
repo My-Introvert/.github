@@ -1,7 +1,7 @@
 # MY INTROVERT
 App solutions for Introverts - Product Base Capstone (Bangkit 2023 Batch 1)\
-Our team consists of 7 people, where our team has an idea to make a special application to help introverts, where we see a lot of blockers for introverts but not many are aware of this, and there is no special application created to deal with this problem, where in our Project we focus on "Help Improve Social Skills and Mental Health" for Introverts.
-<br />
+Our team consists of 7 people, where our team has an idea to make a special application to help introverts, where we see a lot of blockers for introverts but not many are aware of this, and there is no special application created to deal with this problem, where in our Project we focus on "Help Improve Social Skills and Mental Health" for Introverts.\
+<br /> <br />
   
 <p align="center">
   <img src='https://i.postimg.cc/mgJy06Tz/HIS-logo.jpg' width="200">
@@ -9,8 +9,7 @@ Our team consists of 7 people, where our team has an idea to make a special appl
 <br />  
   
 ## Team ID : C23-PC765
-<br />
-  
+
 #### Formula Role : 4ML-2CC-1MD
 #### Theme which choose : Human Healthcare and Living Wellbeings
 #### Title of the Project : My Introvert
@@ -34,7 +33,7 @@ The problem that happens a lot is that in every profession there must be several
 From the results of our observations, there are several common blockers or problems that many introverts have, such as difficulty in public speaking, being too over looking at things, not liking crowds, difficult being a leader, and many more.
 
 According to existing research, there are 2 general characteristics that humans have, namely introverts and extroverts, where specifically for introverts there are many things or traits outside of the usual humans, therefore we here want to make solutions to problems faced by introverts, because some of the members In our team there are introverts and we all experience everything that happens, and we hope that introverts can still be normal humans in general by being classy introverts.
-<br />
+<br /> <br />
   
 ## Project Scope & Deliverables :
 "My Introvert" is the name of the Application that we will build, which we have explained in the Project Summary, where we use this App to help Introverts from weaknesses that Introverts have, this App will be based on Mobile Interfaces, which is supported by Back-End based Web, and will implement Machine Learning Technology in it, to help us create special features in our App later, where we will describe the following features that will be in our Application :
@@ -58,7 +57,7 @@ According to existing research, there are 2 general characteristics that humans 
 ## Project Schedule :
 The Project Development Schedule is presented in the form of a Gantt Chart.
 This is link : [Project Schedule](https://docs.google.com/spreadsheets/d/1tf7hJB7LhLQQSmoaN3glAcT7bLLK4bHF4bIKVFq9ll8/edit?usp=sharing)
-<br />
+<br /> <br />
   
 ## Tech Stack
 ### Cloud Computing :
