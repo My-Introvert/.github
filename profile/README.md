@@ -9,10 +9,10 @@ Our team consists of 7 people, where our team has an idea to make a special appl
 <br />  
   
 ## Team ID : C23-PC765
-Formula Role : 4ML-2CC-1MD
-Theme which choose : Human Healthcare and Living Wellbeings
-Title of the Project : My Introvert
-<br />
+Formula Role : 4ML-2CC-1MD\
+Theme which choose : Human Healthcare and Living Wellbeings\
+Title of the Project : My Introvert\
+<br /> <br />
   
 ### Our Team Members :
 1.  C106DSX2000 - [M. Khoirul Husen](https://www.linkedin.com/in/hoirulhusen08/) - (CC)
