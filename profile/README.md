@@ -3,10 +3,10 @@ App solutions for Introverts - Product Base Capstone (Bangkit 2023 Batch 1)\
 Our team consists of 7 people, where our team has an idea to make a special application to help introverts, where we see a lot of blockers for introverts but not many are aware of this, and there is no special application created to deal with this problem, where in our Project we focus on "Help Improve Social Skills and Mental Health" for Introverts.\
 <br /> <br />
   
-<p align="center">
+<!-- <p align="center">
   <img src='https://i.postimg.cc/mgJy06Tz/HIS-logo.jpgs' alt="This is Logo Image" width="200">
 </p>
-<br />  
+<br />   -->
   
 ## Team ID : C23-PC765
 Formula Role : 4ML-2CC-1MD\
