@@ -4,7 +4,7 @@ Our team consists of 7 people, where our team has an idea to make a special appl
 <br /> <br />
   
 <p align="center">
-  <img src='https://github.com/My-Introvert/.github/blob/main/profile/logo-color.png' alt="This is Logo Image" width="200">
+  <img src='https://github.com/My-Introvert/.github/blob/main/profile/Logo%20My%20Introvert%20-%20Versi%20Teks%20%26%20Tagline.png' alt="This is Logo Image" width="200">
 </p>
 <br />
   
