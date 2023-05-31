@@ -1,12 +1,11 @@
 # MY INTROVERT
 App solutions for Introverts - Product Base Capstone (Bangkit 2023 Batch 1)\
 Our team consists of 7 people, where our team has an idea to make a special application to help introverts, where we see a lot of blockers for introverts but not many are aware of this, and there is no special application created to deal with this problem, where in our Project we focus on "Help Improve Social Skills and Mental Health" for Introverts.\
-<br /> <br />
+<br />
   
 <p align="center">
   <img src='https://github.com/My-Introvert/.github/blob/main/profile/Logo%20My%20Introvert%20-%20Versi%20Teks%20%26%20Tagline.png' alt="This is Logo Image" width="200">
 </p>
-<br />
   
 ## Team ID : C23-PC765
 Formula Role : 4ML-2CC-1MD\
